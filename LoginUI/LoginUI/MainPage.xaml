@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:skiasharp="clr-namespace:SkiaSharp;assembly=SkiaSharp"
+             x:Class="LoginUI.MainPage">
+
+    <ScrollView>
+        <Grid BackgroundColor="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="140" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="100" />
+                
+            </Grid.RowDefinitions>
+            <Path Grid.Row="0" Fill="#7AD6CA" Aspect="Fill" Stroke="#7AD6CA" Data="m113.85749,144.08088l543.99996,0l0,182.76697c-138.99998,-302 -271.99998,69.63757 -543.99996,30.07077l0,-212.83774z"></Path>
+            <Grid RowSpacing="20" Grid.Row="1" Margin="20,0,20,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="150" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50" />
+                
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Label HorizontalOptions="Center" FontSize="48" Text="Login"></Label>
+                </Grid>
+                <Path Grid.Row="1" Stroke="#EDFFFF" Fill="#EDFFFF" Aspect="Uniform" Data="m309.66153,178.97934c0,0 6.26881,-27.8761 0,-37.31902c-6.27619,-9.44293 -8.77928,-15.73292 -22.57952,-20.23598s-8.7719,-3.60563 -18.80642,-3.145c-10.03452,0.45269 -18.40031,6.28999 -18.40031,9.43499c0,0 -6.26881,0.45269 -8.7719,3.15294c-2.51048,2.70025 -6.68968,15.28023 -6.68968,18.43317s2.0896,24.28635 4.1792,28.78147l-2.48832,0.89744c-2.0896,26.07328 8.35841,29.22622 8.35841,29.22622c3.75833,24.28635 7.52404,13.94599 7.52404,20.23598s-3.76571,4.05037 -3.76571,4.05037s-3.33746,9.88767 -11.69587,13.48536c-8.35841,3.58974 -54.75792,22.92034 -58.53101,26.97072c-3.7731,4.05831 -3.34484,22.93623 -3.34484,22.93623l198.97001,0c0,0 0.43564,-18.87791 -3.33746,-22.93623c-3.78048,-4.05831 -50.17999,-23.38098 -58.5384,-26.97072c-8.35841,-3.59768 -11.69587,-13.48536 -11.69587,-13.48536s-3.76571,2.23962 -3.76571,-4.05037s3.76571,4.05037 7.53143,-20.23598c0,0 10.44063,-3.15294 8.35841,-29.22622l-2.51048,0z"></Path>
+                
+                <Entry Grid.Row="2"  Placeholder="Email Address" FontSize="16" />
+                <Entry Grid.Row="3" IsPassword="True" Placeholder="Password" FontSize="16" />
+                <Button Grid.Row="4" Text="Login" BackgroundColor="#7AD6CA" TextColor="White" HeightRequest="50" VerticalOptions="Start" Clicked="Button_Clicked" />
+            </Grid>
+            <Path Grid.Row="2" Fill="#7AD6CA" Aspect="Fill"  Stroke="#7AD6CA" Data="m589.17753,242.35217l0,108.99999l-325,-1l325,-107.99999z" />
+        </Grid>
+    </ScrollView>
+
+</ContentPage>

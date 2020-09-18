@@ -1,0 +1,15 @@
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\LoginUI.deps.json
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\LoginUI.dll
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.csprojAssemblyReference.cache
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\Views\WelcomeScreen.xaml.g.cs
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.AssemblyInfoInputs.cache
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.AssemblyInfo.cs
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\ref\LoginUI.dll
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\LoginUI.pdb
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.csproj.CoreCompileInputs.cache
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.dll
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\ref\LoginUI.dll
+C:\Users\zozdag\Desktop\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.pdb

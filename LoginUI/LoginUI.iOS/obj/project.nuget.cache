@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wO4RMWC1l7CCBs35C/zDOUJrGwAKy7UcBd7QOoVBOhIoRz/Bpql/TC6mcWWpj0eo7CXC1nmev8KErmTfR+S1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zozdag\\Desktop\\LoginUI\\LoginUI\\LoginUI.iOS\\LoginUI.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zozdag\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1451 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n LoginUI.iOS -> LoginUI -> Xamarin.Forms (>= 4.8.0.1451) \r\n LoginUI.iOS -> Xamarin.Forms (>= 4.6.0.1141)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
