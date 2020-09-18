@@ -5,7 +5,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/zozdag/Xamarin.Forms-LOGIN-UI/master/SS.png" width="350">
 
 </p>
